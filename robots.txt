@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blegonte.github.io/sitemap.html.gz
+Sitemap: https://blegonte.github.io/app/sitemap.html.gz
+Sitemap: https://blegonte.github.io/assets/sitemap.html.gz
+Sitemap: https://blegonte.github.io/css/sitemap.html.gz
+Sitemap: https://blegonte.github.io/includes/sitemap.html.gz
+Sitemap: https://blegonte.github.io/item/sitemap.html.gz
+Sitemap: https://blegonte.github.io/src/sitemap.html.gz
